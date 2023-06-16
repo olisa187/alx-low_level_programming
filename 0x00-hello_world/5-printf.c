@@ -1,7 +1,9 @@
 #include <stdio.h>
 
 /**
- *  Using the prinf function to display output in c 
+ * main - print texts on the display,
+ * 
+ * Return: Always 0 (Success)
  */
 
 int main(void){
