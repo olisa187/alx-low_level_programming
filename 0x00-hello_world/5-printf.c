@@ -1,6 +1,8 @@
 #include <stdio.h>
 
-/* Using the prinf function to display output in c */
+/**
+ *  Using the prinf function to display output in c 
+ */
 
 int main(void){
 	
