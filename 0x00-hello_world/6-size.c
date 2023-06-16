@@ -1,7 +1,9 @@
 #include <stdio.h>
 
 /**
- * Program tha compiles the byte size of different data types
+ * main - compiles data type size,
+ * 
+ * Return: Always 0 (Success)
  */
 
 int main(void){
