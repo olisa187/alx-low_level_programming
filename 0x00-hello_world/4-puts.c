@@ -1,7 +1,9 @@
 #include <stdio.h>
 
 /**
- * c program to print to the diplay using puts function 
+ * main - print texts on the display,
+ *
+ * Return: Always 0 (Success)
  */
 
 int main(void){
