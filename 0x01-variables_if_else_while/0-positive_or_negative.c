@@ -3,22 +3,27 @@
 #include <stdio.h>
 
 /**
- *The code to check if a numbe is either positive negative or zero
-*/
+ * main - function that deals with logical statement
+ * The code to check if a numbe is either positive negative or zero
+ * Return: after excution returns 0 
+ */
 int main(void)
 {
 	int n;
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
-	if (n > 0){
+	if (n > 0)
+	{
 		printf("%d is positive\n", n);
 	}
-	else if (n == 0){
+	else if (n == 0)
+	{
 		printf("%d is zero\n", n);
 	}
-	else{
-		printf("%d is negative", n);
+	else
+	{
+		printf("%d is negative\n", n);
 	}
 	return (0);
 }
