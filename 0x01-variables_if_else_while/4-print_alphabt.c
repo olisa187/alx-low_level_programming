@@ -8,7 +8,7 @@
 int main(void)
 {
 	char alphabet;
-	for (alphabet = 'a'; alpahbet <= 'z'; alpahbet++)
+	for (alphabet = 'a'; alphabet <= 'z'; alphabet++)
 	{
 		if (alphabet != 'e' && alphabet != 'q')
 		{
