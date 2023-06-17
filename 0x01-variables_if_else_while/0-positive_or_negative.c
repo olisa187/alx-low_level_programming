@@ -1,16 +1,14 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-
 /**
  * main - function that deals with logical statement
  * The code to check if a numbe is either positive negative or zero
- * Return: after excution returns 0 
+ * Return: after excution returns 0
  */
 int main(void)
 {
 	int n;
-
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
 	if (n > 0)
