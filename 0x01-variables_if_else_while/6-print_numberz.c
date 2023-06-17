@@ -2,7 +2,7 @@
 
 /**
  * main - single digits
- * display 
+ * display
  * Return: 0
  */
 int main(void)
