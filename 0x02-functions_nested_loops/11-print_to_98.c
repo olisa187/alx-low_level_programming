@@ -2,7 +2,7 @@
 #include "main.h"
 
 /**
- * print_to_98 - prints natural number 
+ * print_to_98 - prints natural number
  * @n: parameter ie start number
  * Return: nothing but prints
  */
