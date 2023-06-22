@@ -2,6 +2,7 @@
 
 /**
  * positive_or_negative - function to check positive and negative numbers
+ * all calc is done inside the function
  * Return: nothing
  */
 void positive_or_negative(int i)
