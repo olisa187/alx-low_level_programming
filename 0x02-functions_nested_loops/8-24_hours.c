@@ -2,7 +2,7 @@
 
 /**
  * jack_bauer - void function that keep track of time
- * Return: nothing 
+ * Return: nothing
  */
 void jack_bauer(void)
 {
