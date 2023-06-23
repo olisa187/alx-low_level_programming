@@ -5,7 +5,7 @@
  * @c: parameter to function
  * Return: on sucess return 0
  */
-int _isupper(int c);
+int _isupper(int c)
 {
 	return (c >= 'A' && c <= 'Z');
 }
